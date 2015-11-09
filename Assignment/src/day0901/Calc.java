@@ -14,6 +14,7 @@ public class Calc {
 			}
 		}
 		
+		System.out.println(123);
 		System.out.println("È¦¼öÀÇ ÇÕ : " + oddSum);
 		System.out.println("Â¦¼öÀÇ ÇÕ : " + evenSum);
 	}
